@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "destino": "Azul Real Boutique",
+      "valoración": "4.4",
+      "traslado": "Aerolíneas Argentinas",
+      "año": "2022",
+      "img": "images/azulreal_boutique.jpg",
+      "tipo": "Hotel Boutique"
+    },
+    {
+      "id": 2,
+      "destino": "El Nautico Lodge",
+      "valoración": "4.7",
+      "traslado": "JetSmart",
+      "año": "2022",
+      "img": "images/el-nautico-lodge.jpg",
+      "tipo": "Hotel Boutique"
+    },
+    {
+      "id": 3,
+      "destino": "Blackstone Apart Boutique",
+      "valoración": "4.8",
+      "traslado": "Aerolíneas Argentinas",
+      "año": "2023",
+      "img": "images/blackstone-apart-boutique.jpg",
+      "tipo": "Hotel Boutique"
+    },
+    {
+      "id": 4,
+      "destino": "Villa Labrador",
+      "valoración": "3.8",
+      "traslado": "Aerolíneas Argentinas",
+      "año": "2023",
+      "img": "images/villa-labrador.jpg",
+      "tipo": "Cabañas & Bungalows"
+    },
+    {
+      "id": 5,
+      "destino": "La Desaeada Cabañas",
+      "valoración": "4.2",
+      "traslado": "JetSmart",
+      "año": "2023",
+      "img": "images/la-deseada-cabañas.jpg",
+      "tipo": "Cabañas & Bungalows"
+    },
+    {
+      "id": 6,
+      "destino": "Cabañas del Bosque",
+      "valoración": "4.3",
+      "traslado": "FlyBondi",
+      "año": "2023",
+      "img": "images/cabañas-del-bosque.jpg",
+      "tipo": "Cabañas & Bungalows"
+    },
+    {
+      "id": 7,
+      "destino": "Aparts Alamos del Sur",
+      "valoración": "3.9",
+      "traslado": "Aerolíneas Argentinas",
+      "año": "2022",
+      "img": "images/aparts-alamos-delsur.jpg",
+      "tipo": "Apart Hotel"
+    },
+    {
+      "id": 8,
+      "destino": "Windsor Hotel",
+      "valoración": "4.1",
+      "traslado": "JetSmart",
+      "año": "2023",
+      "img": "images/windsor-hotel.jpg",
+      "tipo": "Apart Hotel"
+    },
+    {
+      "id": 9,
+      "destino": "Lago Apartments",
+      "valoración": "4.9",
+      "traslado": "FlyBondi",
+      "año": "2023",
+      "img": "images/lago-apartments.jpg",
+      "tipo": "Apart Hotel"
+    }
+    
+  ]
